@@ -2,7 +2,7 @@ import telebot
 import random
 from datetime import datetime
 
-TOKEN = '8621180554:AAEBXtxiIISB5T4cUjMQ81cQNaMqwDW6e4Y'
+TOKEN = 'TOKEN'
 
 bot = telebot.TeleBot(TOKEN)
 
